@@ -1,1 +1,3 @@
 Jeopardy is a popular TV show in the US where participants answer questions to win money. It's been running for a few decades, and is a major force in popular culture.
+In this project, we'll work with a dataset of Jeopardy questions to figure out some patterns in the questions that could help you win.
+The csv file can be downloaded from https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file
